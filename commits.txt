@@ -1060,3 +1060,4 @@ commit 123 7
 commit 123 6
 commit 123 5
 commit 123 4
+commit 123 3
